@@ -1,0 +1,39 @@
+* {
+    color: aliceblue;
+    margin: auto;
+  }
+  
+  .profileScreen {
+    padding-top: 100px;
+    padding-left: 50px;
+  }
+  
+  .profile__name {
+    font-size: xx-large;
+  }
+  
+  .profile__img {
+      height: 150px;
+      width: 150px;
+    border-radius: 50%;
+  }
+  
+  .profile__section {
+    font-size: larger;
+  }
+  
+  .profile__desc {
+    font-size: large;
+  }
+  
+  .profile__button {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #e50914;
+    font-size: medium;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
